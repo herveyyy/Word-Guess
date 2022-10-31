@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/lofibg.mp3-0112c0edb3401e5a5ae8306168f8b417.mp3str"
+
+[deps]
+
+source_file="res://lofibg.mp3"
+dest_files=[ "res://.import/lofibg.mp3-0112c0edb3401e5a5ae8306168f8b417.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
