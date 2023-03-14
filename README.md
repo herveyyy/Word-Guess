@@ -1,1 +1,2 @@
-# worder-game
+# Godot game - 
+worder-game
